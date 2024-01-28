@@ -1,0 +1,23 @@
+
+u
+java:S1192%"SDefine a constant instead of duplicating this literal "Introdueix un ID: " 3 times.(øíÃÂüÿÿÿÿ8ÿ£ÖÕ1
+}
+java:S1488	"[Immediately return this expression instead of assigning it to the temporary variable "bfr".(ÉİÌÛÿÿÿÿÿ8€¤ÖÕ1
+a
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(ø×†é8½ßèÕ1
+^
+java:S1659!"ADeclare "name" and all following declarations on a separate line.(àõó¦8¸¤ÖÕ1
+L	java:S106"+Replace this use of System.out by a logger.(ëºÚíıÿÿÿÿ8¹¤ÖÕ1
+L	java:S106"+Replace this use of System.out by a logger.(Á¨Ìúÿÿÿÿ8¹¤ÖÕ1
+L	java:S106"+Replace this use of System.out by a logger.(Š²‘™şÿÿÿÿ8¹¤ÖÕ1
+j
+java:S18718"HThis case's code block is the same as the block for the case on line 49.(Øšë¢ıÿÿÿÿ8»¤ÖÕ1
+L	java:S106%"+Replace this use of System.out by a logger.(øíÃÂüÿÿÿÿ8¼¤ÖÕ1
+L	java:S106'"+Replace this use of System.out by a logger.(ù†ßşÿÿÿÿ8¼¤ÖÕ1
+G	java:S106)"+Replace this use of System.out by a logger.(ª¤¬è8¼¤ÖÕ1
+L	java:S1062"+Replace this use of System.out by a logger.(øíÃÂüÿÿÿÿ8½¤ÖÕ1
+L	java:S1069"+Replace this use of System.out by a logger.(øíÃÂüÿÿÿÿ8¾¤ÖÕ1
+L	java:S106@"+Replace this use of System.err by a logger.(äˆ”Øıÿÿÿÿ8¾¤ÖÕ1
+L	java:S106J"+Replace this use of System.err by a logger.(‚Å•£üÿÿÿÿ8Á“èÕ1
+F	java:S106Q"+Replace this use of System.out by a logger.(ƒÚáB8Ğ¤ÖÕ1
+L	java:S106U"+Replace this use of System.out by a logger.(¡¶í”ÿÿÿÿÿ8Ã“èÕ1
